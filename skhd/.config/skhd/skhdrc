@@ -1,0 +1,5 @@
+alt + shift + cmd + ctrl - b : open -b 'org.mozilla.firefox'
+alt + shift + cmd + ctrl - f : open -b 'com.apple.finder'
+alt + shift + cmd + ctrl - i : open -b 'com.jetbrains.intellij'
+alt + shift + cmd + ctrl - m : open -b 'com.apple.mail'
+alt + shift + cmd + ctrl - return : open -b 'net.kovidgoyal.kitty'

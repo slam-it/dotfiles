@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# Colors taken from gruvbox theme
+red="0xffcc241d"
+blue="0xff458588"
+
+options=(
+	active_color="$red"
+	inactive_color="$blue"
+	hidpi=on
+	style=round
+	width=6.0
+)
+
+borders "${options[@]}"
